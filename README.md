@@ -124,11 +124,11 @@ The following list, represents the set of related repositories for the presented
 
 - [`dataset-uta7-time`](https://github.com/MIMBCD-UI/dataset-uta7-time)
 
-- [`dataset-uta4-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta4-nasa-tlx)
+- [`dataset-uta4-sus`](https://github.com/MIMBCD-UI/dataset-uta4-sus)
 
-- [`dataset-uta9-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta9-nasa-tlx)
+- [`dataset-uta9-sus`](https://github.com/MIMBCD-UI/dataset-uta9-sus)
 
-- [`dataset-uta10-nasa-tlx`](https://github.com/MIMBCD-UI/dataset-uta10-nasa-tlx)
+- [`dataset-uta10-sus`](https://github.com/MIMBCD-UI/dataset-uta10-sus)
 
 - [`prototype-multi-modality-assistant`](https://github.com/mida-project/prototype-multi-modality-assistant)
 
